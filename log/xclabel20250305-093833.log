@@ -1,0 +1,8 @@
+[admin] 2025-03-05 09:38:33,722 17 [INFO] xclabel 1.0,xclabel
+[admin] 2025-03-05 09:38:33,722 18 [INFO] BASE_DIR:G:\repository\xclabel
+[admin] 2025-03-05 09:38:33,722 20 [INFO] config.json:{'host': '127.0.0.1', 'port': 9924, 'ffmpeg': 'ffmpeg', 'storageDir': 'E:\\project\\bxc\\gitee\\xclabel\\static\\storage', 'yolo8': {'install_dir': 'E:\\project\\ai\\yolov8', 'venv': 'venv\\Scripts\\activate.bat', 'name': 'yolo', 'model': 'yolov8n.pt'}, 'yolo11': {'install_dir': 'E:\\project\\ai\\yolov11', 'venv': 'venv\\Scripts\\activate.bat', 'name': 'yolo', 'model': 'yolo11n.pt'}}
+[admin] 2025-03-05 09:39:26,363 248 [WARNING] Not Found: /icons/icon_zh_48.png
+[admin] 2025-03-05 09:39:36,572 248 [WARNING] Not Found: /icons/icon_zh_48.png
+[admin] 2025-03-05 09:39:38,147 248 [WARNING] Not Found: /icons/icon_zh_48.png
+[admin] 2025-03-05 09:39:41,446 248 [WARNING] Not Found: /icons/icon_zh_48.png
+[admin] 2025-03-05 09:39:42,918 248 [WARNING] Not Found: /icons/icon_zh_48.png

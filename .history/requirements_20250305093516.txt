@@ -1,0 +1,9 @@
+Django==5.0.4
+psutil
+requests
+xlrd
+openpyxl
+netifaces
+pillow
+opencv-python
+numpy

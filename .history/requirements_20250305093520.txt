@@ -1,0 +1,9 @@
+Django
+psutil
+requests
+xlrd
+openpyxl
+netifaces
+pillow
+opencv-python
+numpy
